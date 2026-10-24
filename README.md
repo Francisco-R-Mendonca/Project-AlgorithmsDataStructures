@@ -1,6 +1,5 @@
-# Projeto de IAED
-Este projeto consiste no desenvolvimento de um sistema de gestão de parques de estacionamento em C. 
-O sistema permite a definição de parques e o registo de entradas e saídas de veículos,
-assim como a sua consulta e facturação.
+# 	Introduction to Algorithms and Data Structures Project
+This project consists of developing a car park management system in C.  
+The system allows users to define car parks, record vehicle entries and exits, as well as view parking records and manage billing.
 
-Avaliacao: 17.82/20
+Grade: 17.82/20
